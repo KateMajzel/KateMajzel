@@ -1,4 +1,5 @@
 ### Hello, I`m Kate 👋
+### I am a Junior Java Developer
 
 - 🔭 I am currently looking for an internship.
 - 📫 How to reach me kmajzel@op.pl

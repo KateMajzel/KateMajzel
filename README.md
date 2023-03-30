@@ -5,6 +5,8 @@
 
 ![Kate_Majzel](https://user-images.githubusercontent.com/104032721/228881313-0c3567b6-e2d3-4166-b703-b4191a73efae.png)
 
+🛠  Tech Stack: Java, Spring, Hibernate, SQL
+
 - Projects in JAVA:
 
 <!--

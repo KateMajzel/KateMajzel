@@ -1,6 +1,11 @@
 ### Hello, I`m Kate 👋
 
+- 🔭 I am currently looking for an internship.
+- 📫 How to reach me kmajzel@op.pl
+
 ![Kate_Majzel](https://user-images.githubusercontent.com/104032721/228881313-0c3567b6-e2d3-4166-b703-b4191a73efae.png)
+
+- Projects in JAVA:
 
 <!--
 **KateMajzel/KateMajzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

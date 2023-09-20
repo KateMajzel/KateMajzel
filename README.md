@@ -1,7 +1,6 @@
 ### Hello, I`m Kate 👋
 ### I am a Junior Java Developer
 
-- 🔭 I am currently an intern at COIG
 - 📫 How to reach me kmajzel@op.pl
 - 🔗 https://www.linkedin.com/in/katarzyna-majzel-pospiech/
 - ⚡ myResume app -> How it works -> https://bit.ly/JavaKate

@@ -1,5 +1,4 @@
 ### Hello, I`m Kate 👋
-### I am a Junior Java Developer
 
 - 📫 How to reach me kmajzel@op.pl
 - 🔗 https://www.linkedin.com/in/katarzyna-majzel-pospiech/

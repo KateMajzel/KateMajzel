@@ -2,6 +2,8 @@
 
 - 📫 How to reach me kmajzel@op.pl
 - 🔗 https://www.linkedin.com/in/katarzyna-majzel-pospiech/
+- Salesforce 🔗 https://www.salesforce.com/trailblazer/katemaj
+- Prompt engineer 🔗 https://flowgpt.com/@katemp
 - ⚡ myResume app -> How it works -> https://bit.ly/JavaKate
 
 <!--![Kate_Majzel](https://user-images.githubusercontent.com/104032721/228881313-0c3567b6-e2d3-4166-b703-b4191a73efae.png)-->

@@ -10,7 +10,7 @@
 
 ### 🛠  Tech Stack: Java, Spring, Hibernate, SQL
 
-- Projects in JAVA and basics Python
+- Projects in JAVA and Python
 
 <!--
 **KateMajzel/KateMajzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

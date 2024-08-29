@@ -1,6 +1,6 @@
 ### Hello, I`m Kate 👋
 
-- 📫 How to reach me kmajzel@op.pl
+- 📫 How to reach me katarzyna.majzelpospiech@gmail.com
 - 🔗 https://www.linkedin.com/in/katarzyna-majzel-pospiech/
 - 💻 Salesforce 🔗 https://www.salesforce.com/trailblazer/katemaj
 - 💻 Prompt engineer 🔗 https://flowgpt.com/@katemp
